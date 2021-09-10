@@ -1,4 +1,4 @@
-baseURL = ""https://ceu9jo.github.io/hugo-sample/
+baseURL = "https://ceu9jo.github.io/hugo-sample/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
