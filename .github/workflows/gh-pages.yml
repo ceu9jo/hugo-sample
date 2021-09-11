@@ -29,5 +29,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: ceu9jo/ceu9jo.github.io
-          publish_branch: main
+          publish_dir: ./
